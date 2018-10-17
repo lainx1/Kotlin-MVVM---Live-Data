@@ -13,6 +13,7 @@ import com.example.eheca.kotlinmvvm_livedata.uitilities.InjectorUtilities
 import kotlinx.android.synthetic.main.activity_quotes.*
 
 class QuotesActivity : AppCompatActivity() {
+    //Tutorial from https://www.youtube.com/watch?v=d7UxPYxgBoA
 
     override fun onCreate(savedInstanceState: Bundle?) {
         AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES);
